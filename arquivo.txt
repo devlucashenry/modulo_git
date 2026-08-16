@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test test test file of branch master
+=======
+editando pela interface
+>>>>>>> 51f88efd13bdcad8311749927c7bb539661c4853
